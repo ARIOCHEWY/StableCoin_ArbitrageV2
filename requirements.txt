@@ -1,0 +1,4 @@
+ccxt
+networkx
+matplotlib
+streamlit
